@@ -1,14 +1,14 @@
 {
-  "name": "classpass-express",
+  "name": "fitness-express",
   "version": "1.0.0",
-  "description": "server to collect data from ClassPass workouts",
+  "description": "server to collect data from workouts",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "github.com/ownzandy/classpass-express"
+    "url": "github.com/ownzandy/fitness-express"
   },
   "keywords": [
     "classpass",
